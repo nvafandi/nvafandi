@@ -66,11 +66,4 @@ Focus areas:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvafandi&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvafandi&layout=compact)
 
-## What teammates say
-
-> "One of the most talented and well-rounded developers I've met. Strong technical foundation — especially in backend development — while also highly adaptable to front-end tasks." — Teammate at Adira Finance
-
-> "Strong interest in backend development. Often took initiative beyond core responsibilities in API integration and database work." — Teammate on same project team
-
----
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nurvan-afandi)
