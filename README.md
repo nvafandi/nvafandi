@@ -2,9 +2,11 @@
 
 **Software Engineer | Java Developer | Backend Engineer**
 
-🔭 I'm currently working at Prudential Indonesia (PT Prudential Life Assurance)
+🔭 Open to new Backend Engineer opportunities (formerly at Prudential Indonesia, Adira Finance & Astra Honda Motor)
 
-🌱 I'm currently learning Rust, Go, and cloud-native technologies
+🌱 I'm currently learning AI agent tooling, MCP servers, and CI/CD automation with GitHub Actions & Snyk
+
+🚀 Recently built: a multi-language script sandbox with automated releases, and a skill inspector with API contract validation
 
 💬 Ask me about Spring Boot, Quarkus, Java, and REST APIs
 
