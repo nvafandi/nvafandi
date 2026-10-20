@@ -4,8 +4,7 @@
 
 🔭 Open to new Backend Engineer opportunities (formerly at Prudential Indonesia, Adira Finance & Astra Honda Motor)
 
-🌱 I'm currently learning AI agent tooling, MCP servers, and CI/CD automation with GitHub Actions & Snyk
-
+🌱 I'm currently learning AI agent tooling, MCP servers, and CI/CD automation
 🚀 Recently built: a multi-language script sandbox with automated releases, and a skill inspector with API contract validation
 
 💬 Ask me about Spring Boot, Quarkus, Java, and REST APIs
